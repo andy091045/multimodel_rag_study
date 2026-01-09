@@ -1,0 +1,1 @@
+Python 的 Pandas 是一個強大的數據分析庫。使用 Vector Database 可以加速語意搜尋。

@@ -1,0 +1,10 @@
+torch
+torchvision
+torchaudio
+transformers
+sentence-transformers
+numpy
+pillow
+einops
+accelerate
+qwen-vl-utils
